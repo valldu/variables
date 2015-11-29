@@ -1,0 +1,17 @@
+{
+  "name": "VariablesCliniquesICS",
+  "version": "0.0.0",
+  "description": "VariablesCliniquesICS",
+  "main": "app.js",
+  "author": {
+    "name": "Pere",
+    "email": ""
+  },
+  "dependencies": {
+    "bluebird": "^3.0.5",
+    "express": "3.4.4",
+    "jade": "*",
+    "mongoose": "^4.2.8",
+    "stylus": "*"
+  }
+}
